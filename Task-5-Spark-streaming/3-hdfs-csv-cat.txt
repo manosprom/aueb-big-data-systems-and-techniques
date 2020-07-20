@@ -1,0 +1,25 @@
+(mysparkenv) root@s01:~# hdfs dfs -cat /data/exercise/shoes_predictions.csv/*.csv | less
+Mon Jul 27 22:38:06 +0000 2020,Got some shoes for sell lmk all size 10,1.0,boys-shoes
+Mon Jul 27 19:05:49 +0000 2020,"RT @Raeonaa: I don't sell shoes at all, y'all gotta stop getting scammed by fake pages of me then blaming me.",0.0,girls-shoes
+Mon Jul 27 16:27:01 +0000 2020,"RT @onlyoneofjulia: @wonderlxost Then another said let's sell his shoes. He said wouldn't be able to get into his dorm again. And \"seung ho…",3.0,mens-shoes-athletic
+Mon Jul 27 21:18:37 +0000 2020,follow my mans page if you want shoes on the low 👀👀,1.0,boys-shoes
+Mon Jul 27 17:39:01 +0000 2020,@TaWandaPicard @pcbrynn I thought of this thread while watching this. I’d suggest everyone who works with the publi… https://t.co/DkLSHNbGOH,2.0,mens-lace-up-shoes
+Mon Jul 27 20:00:40 +0000 2020,"Need new shoes or gear? Shop with us online, anytime: https://t.co/1aTZBSxwii",3.0,mens-shoes-athletic
+Mon Jul 27 20:49:29 +0000 2020,RT @theonlyogechi: My name is Ogechi and all I do is sell bags and shoes to beautiful women 💕 https://t.co/1IYzyfFsVw,2.0,mens-lace-up-shoes
+Mon Jul 27 20:49:29 +0000 2020,RT @Jake_ward20: I got a shoe page on instragam @kicksinfull ‼️ these are just one of many shoes on my page for sell for way cheaper then s…,0.0,girls-shoes
+Mon Jul 27 16:55:12 +0000 2020,"If you undercut a shoe's value by $100 to near retail because you really need to sell that quick, it's time to stop… https://t.co/LOla718iYP",1.0,boys-shoes
+Mon Jul 27 23:29:05 +0000 2020,"If you get Covid from Walmart you cant sue them either.
+Mon Jul 27 19:44:12 +0000 2020,"RT @pzmyers: My whole day has been disrupted because I have to get car tires replaced, &amp; my wife has insisted that I must also get mail ord…",2.0,mens-lace-up-shoes
+Mon Jul 27 19:11:53 +0000 2020,"RT @Ladeclef: Hi guys, please I run an online store where I sell bags and shoes both on here and instagram. Your referrals and patronage wo…",0.0,girls-shoes
+Mon Jul 27 18:22:59 +0000 2020,"RT @Ladeclef: Hi guys, please I run an online store where I sell bags and shoes both on here and instagram. Your referrals and patronage wo…",0.0,girls-shoes
+Mon Jul 27 23:28:31 +0000 2020,"RT @TreyMtzz: Gonna be selling clothes soon on an IG page cos I got too much shit. Might fck around n sell some shoes too🤧, lmk if interest…",1.0,boys-shoes
+Mon Jul 27 20:55:20 +0000 2020,RT @Rp97__: KNITTED BABY CLOTHES / SHOES ARE THE BEST FIT FOR PREMI BABYS! 🥰,0.0,girls-shoes
+Mon Jul 27 23:48:06 +0000 2020,"@AriTheDon Hello! We are a new small BLACK OWNED business created to be a one stop shop for hair, shoes, watches, t… https://t.co/peHWfweDUF",2.0,mens-lace-up-shoes
+Mon Jul 27 20:03:17 +0000 2020,@DrkSkndMaryJane Hey everybody! I own a baby boutique called https://t.co/kbU21AgIp4 We sell a lot of baby products… https://t.co/MjOBnDpNrd,2.0,mens-lace-up-shoes
+Mon Jul 27 18:41:21 +0000 2020,"RT @Ladeclef: Hi guys, please I run an online store where I sell bags and shoes both on here and instagram. Your referrals and patronage wo…",0.0,girls-shoes
+Mon Jul 27 18:04:42 +0000 2020,RT @shoegasm101: @BUBLAGOS @Mr_FuntoR @Anagazo @prinzgbemi @MaziIbe_ @Mrtybaba I sell thrifted and new shoes at affordable prices. https://…,1.0,boys-shoes
+Mon Jul 27 19:58:57 +0000 2020,"@Pantthur I mean if you feel@comfortable buying it fuck it its the best deal, and I don’t think anyone would sell f… https://t.co/6bOI3l5toh",2.0,mens-lace-up-shoes
+Mon Jul 27 17:39:36 +0000 2020,RT @999tts: @ramalokot So what? You wanted them to wear nonsensev or shoes your shop?,2.0,mens-lace-up-shoes
+Mon Jul 27 22:03:29 +0000 2020,"RT @Coupons77777: Sale up to 70% from Simply be.
+...
+(mysparkenv) root@s01:~#

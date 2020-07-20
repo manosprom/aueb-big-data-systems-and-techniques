@@ -1,0 +1,5 @@
+```log
+root@s01:~/mysparkenv# $KAFKA_HOME/bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 3 --partitions 1 --topic offers
+Created topic "offers".
+root@s01:~/mysparkenv#
+```

@@ -1,0 +1,23 @@
+Comparing models on fold 1
+params: {'numTrees': 1000, 'numFeatures': 1000}	accuracy: 0.341981	avg: 0.341981
+params: {'numTrees': 1500, 'numFeatures': 1000}	accuracy: 0.341981	avg: 0.341981
+params: {'numTrees': 1000, 'numFeatures': 1500}	accuracy: 0.341981	avg: 0.341981
+params: {'numTrees': 1500, 'numFeatures': 1500}	accuracy: 0.341981	avg: 0.341981
+params: {'numTrees': 1000, 'numFeatures': 2000}	accuracy: 0.341981	avg: 0.341981
+params: {'numTrees': 1500, 'numFeatures': 2000}	accuracy: 0.341981	avg: 0.341981
+Comparing models on fold 2
+params: {'numTrees': 1000, 'numFeatures': 1000}	accuracy: 0.339409	avg: 0.340695
+params: {'numTrees': 1500, 'numFeatures': 1000}	accuracy: 0.339409	avg: 0.340695
+params: {'numTrees': 1000, 'numFeatures': 1500}	accuracy: 0.339409	avg: 0.340695
+params: {'numTrees': 1500, 'numFeatures': 1500}	accuracy: 0.339409	avg: 0.340695
+params: {'numTrees': 1000, 'numFeatures': 2000}	accuracy: 0.339409	avg: 0.340695
+params: {'numTrees': 1500, 'numFeatures': 2000}	accuracy: 0.339409	avg: 0.340695
+Comparing models on fold 3
+params: {'numTrees': 1000, 'numFeatures': 1000}	accuracy: 0.334119	avg: 0.338503
+params: {'numTrees': 1500, 'numFeatures': 1000}	accuracy: 0.334119	avg: 0.338503
+params: {'numTrees': 1000, 'numFeatures': 1500}	accuracy: 0.334119	avg: 0.338503
+params: {'numTrees': 1500, 'numFeatures': 1500}	accuracy: 0.334119	avg: 0.338503
+params: {'numTrees': 1000, 'numFeatures': 2000}	accuracy: 0.334119	avg: 0.338503
+params: {'numTrees': 1500, 'numFeatures': 2000}	accuracy: 0.334119	avg: 0.338503
+Best model:
+params: {'numTrees': 1000, 'numFeatures': 1000}	accuracy: 0.338503

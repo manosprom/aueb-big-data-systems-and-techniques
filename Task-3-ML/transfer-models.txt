@@ -1,0 +1,12 @@
+(mysparkenv) root@s01:~/exercise# hdfs dfs -ls /data/exercise/
+Found 6 items
+drwxr-xr-x   - root supergroup          0 2020-07-25 18:01 /data/exercise/LogRegCrossvalModel
+drwxr-xr-x   - root supergroup          0 2020-07-27 13:06 /data/exercise/OneVsRestLogRegModel
+drwxr-xr-x   - root supergroup          0 2020-07-27 12:59 /data/exercise/RandomForestCrossvalModel
+drwxr-xr-x   - root supergroup          0 2020-07-25 16:29 /data/exercise/shoes.parquet
+drwxr-xr-x   - root supergroup          0 2020-07-28 00:11 /data/exercise/shoes_predictions.csv
+drwxr-xr-x   - root supergroup          0 2020-07-28 00:11 /data/exercise/shoes_predictions.parquet
+
+(mysparkenv) root@s01:~/exercise# hdfs dfs -copyToLocal /data/exercise/LogRegCrossvalModel ./Task-3-ML/LogRegCrossvalModel
+(mysparkenv) root@s01:~/exercise# hdfs dfs -copyToLocal /data/exercise/LogRegCrossvalModel ./Task-3-ML/OneVsRestLogRegModel
+(mysparkenv) root@s01:~/exercise# hdfs dfs -copyToLocal /data/exercise/LogRegCrossvalModel ./Task-3-ML/RandomForestCrossvalModel

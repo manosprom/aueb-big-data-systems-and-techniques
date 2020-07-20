@@ -1,0 +1,4 @@
+root@s01:~# $KAFKA_HOME/bin/kafka-topics.sh --list --zookeeper localhost:2181
+offers
+tweets
+root@s01:~#

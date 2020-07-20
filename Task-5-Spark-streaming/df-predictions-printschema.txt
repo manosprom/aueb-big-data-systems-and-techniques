@@ -1,0 +1,7 @@
+shoesPredictions.printSchema()
+root
+ |-- created_at: string (nullable = true)
+ |-- name: string (nullable = true)
+ |-- prediction: double (nullable = true)
+ |-- prediction_text: string (nullable = true)
+
